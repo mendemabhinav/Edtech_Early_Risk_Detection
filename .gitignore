@@ -1,5 +1,6 @@
 # Secret Credentials (NEVER PUSH TO GITHUB)
 .streamlit/secrets.toml
+supabase_pass.txt
 
 # Python Virtual Environments
 venv/
